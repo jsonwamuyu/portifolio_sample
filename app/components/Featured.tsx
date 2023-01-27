@@ -21,7 +21,8 @@ const Featured = () => {
                 category='Dashbord'
                 yearWork={2020}
                 desc="Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
-                  Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+                  Velit officia consequat duis enim velit mollit. Exercitation veniam consequat 
+                  sunt nostrud amet."
                 />
         </div>
     </section>
