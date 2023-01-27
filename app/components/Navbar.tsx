@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
             {
               toggle && (
-                <div className='absolute flex justify-between top-0  pt-3 bg-white z-10 shadow-sm right-0 h-full w-[90%] px-[20px]'>
+                <div className='absolute flex justify-between top-0  pt-3 bg-[#f9f8fa] z-10 shadow-lg right-0 h-full w-[90%] px-[20px]'>
                   <ul className='flex flex-col space-y-[33px]'>
                       {['blog', 'works','contact'].map((item, index) =>(
                          <Link onClick={() => setToggle(false)} 
